@@ -1,6 +1,6 @@
 # Image Transformation Scripts
 
-Welcome to the Image Transformation Scripts repository! This collection of scripts allows you to perform various image transformations, including converting images to monochrome, creating negative versions, and generating positive versions.
+This collection of scripts allows you to perform various image transformations, including converting images to monochrome, creating negative versions, and generating positive versions.
 
 ## Table of Contents
 
